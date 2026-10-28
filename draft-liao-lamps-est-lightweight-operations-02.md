@@ -14,7 +14,7 @@ pi:
 
 author:
   - name: Lijun Liao
-    org: NIO
+    org: NIO Inc.
     email: lijun.liao@nio.io
 
 normative:
